@@ -20,4 +20,4 @@ This app or python file is compatible with any of the Operating System.
 If you found the installation or setup setps little complicated then please wait for some days, i am currently working on its .exe version for windows, mac and for linux operating systems also. As soon as i am done with the work of .exe version you can simply download it and run it as a app in your dekstop.
 
 # Credits
-https://www.python.org/downloads/
+https://github.com/astroxhacker
