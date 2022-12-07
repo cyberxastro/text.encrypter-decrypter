@@ -3,11 +3,16 @@ The text.encrypter-decrypter is a modern looking text encryption or decryption t
 
 # Setup
 
-IF you found this project a little interesting and you wish to run this porject to secure yourself then first of all i'll recommend you to download the latest version of python from their official website (https://www.python.org/downloads/), make sure that you are having the latest version of pip installed , when you are done with the above stuff then open the terminal in the folder where you've downloaded the file. Then you've to enter
+1. To run the above .py file in your system, you'll need python and pip installed in your system already, and both of the updated to the latest version also
+2. If you've completed the above Setup then simply run the below commands into your terminal
 
+```
 pip install customtkinter
-
-and pip install tkinter
+```
+and 
+```
+pip install tkinter
+```
 
 and then you're good to go. Now simply download my ".py" file and then double click on it, it will run immediately and you'll find the results immediately.
 
